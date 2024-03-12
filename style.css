@@ -10,6 +10,10 @@ h2 {
     text-align: center;
 }
 
+ul li {
+    list-style: none;
+}
+
 .introduction {
     margin: auto;
     padding: 0 200px 0 200px;
@@ -32,5 +36,20 @@ h2 {
 
 .steps-container {
     margin: auto;
-    padding: 0 200px 0 200px;
+    padding: 0 200px 15px 200px;
+}
+
+#back-home {
+    text-align: center;
+}
+
+#lasagna-link {
+    display: block;
+    text-align: center;
+}
+
+#lasagna-photo-under-link {
+    display: block;
+    margin: auto;
+    padding: 10px;
 }
