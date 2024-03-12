@@ -1,0 +1,36 @@
+html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.introduction {
+    margin: auto;
+    padding: 0 200px 0 200px;
+}
+
+.photo-of-lasagna {
+    display: block;
+    margin: auto;
+}
+
+.ingredient-photo-container {
+    margin: auto;
+    width: 50%;
+}
+
+.ingredients-by-photo {
+    display: flex;
+    align-items: center;
+}
+
+.steps-container {
+    margin: auto;
+    padding: 0 200px 0 200px;
+}
